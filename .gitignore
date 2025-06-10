@@ -1,0 +1,51 @@
+#mac os Stuff
+.DS_Store
+
+#Some devs local hidden files in this folder
+local
+
+#CocoaPods
+Pods
+
+# xcode noise
+build/*
+xcuserdata
+DerivedData/
+
+# fastlane specific
+fastlane/.env
+fastlane/keys/*
+fastlane/builds
+fastlane/report.xml
+fastlane/test_output
+fastlane/code_coverage
+fastlane/screenshots/**/*.png
+fastlane/screenshots/screenshots.html
+# Fastlane temporary files
+fastlane/temp/
+fastlane/**/*.tmp
+_floatsignTemp/
+*.ipa
+*.dSYM.zip
+
+
+#local configuration
+Configuration/configuration_local.json
+
+.sentryclirc
+
+#repomix
+repomix-output.xml
+
+# generated files
+.index-build
+.build
+.swiftpm
+
+#maestro
+maestro/samples/
+maestro/output/
+maestro/scripts/creds.json
+
+# ignore gitpmoji
+gitpmoji/
