@@ -2,6 +2,10 @@
 
 iOS app implementing a realistic magnifying glass effect using Metal shaders and CoreImage.
 
+![Demo](img/sim.gif)
+
+[Video Demo](img/simu.mp4)
+
 ## Features
 
 - **Displacement Map Filter** - custom Metal-based filter for realistic lens distortion
