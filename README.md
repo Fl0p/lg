@@ -34,3 +34,7 @@ Run the app:
 - Tap lens to toggle displacement map view
 - Use sliders to adjust parameters in real-time
 - Click on shape to see the Displacement Map
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details
