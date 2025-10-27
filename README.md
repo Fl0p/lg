@@ -37,7 +37,6 @@ Run the app:
 - Tap background to cycle through images
 - Tap lens to toggle displacement map view
 - Use sliders to adjust parameters in real-time
-- Click on shape to see the Displacement Map
 
 ## License
 
