@@ -1,6 +1,6 @@
 # Liquid Glass
 
-iOS app implementing a realistic magnifying glass effect using Metal shaders and CoreImage.
+An iOS app implementing a realistic magnifying glass effect using Metal shaders and CoreImage.
 
 <img src="img/githubPreview.gif" alt="Demo" width="320">
 
