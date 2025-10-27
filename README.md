@@ -2,7 +2,7 @@
 
 iOS app implementing a realistic magnifying glass effect using Metal shaders and CoreImage.
 
-![Demo](img/sim.gif)
+![Demo](img/demo.gif)
 
 [Video Demo](img/simu.mp4)
 
