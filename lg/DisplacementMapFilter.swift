@@ -87,7 +87,6 @@ class DisplacementMapFilter: CIFilter {
             return bgSourceImage
         }
         
-//        return bgSourceImage
         if showMap { return map }
 
         return kernel.apply(

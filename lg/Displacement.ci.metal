@@ -143,13 +143,6 @@ extern "C" float4 displacementMapDistortsionKernel(coreimage::sampler image,
 
     float2 displacementValue = displacement.sample(displacement.transform(coord-padding)).rg;
     displacementValue = displacementValue -0.5; // offset
-    //float2 displacementValue = float2(displacementValueBase.x*correction.x,displacementValueBase.y*correction.y);
-    
-//    return float4(displacementValue.x, displacementValue.y, 0.0, 1.0);
-//    displacementValue = float2(0.5, 0.5); //  test no displacement
-//    float displacementValueX = tangentLike5(coord.x/imageSize.x);
-//    float displacementValueY = tangentLike5(coord.y/imageSize.y);
-//    float2 displacementValue = float2(displacementValueX, displacementValueY);
     
     // Apply different displacements for each channel
     
