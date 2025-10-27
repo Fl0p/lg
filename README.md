@@ -2,9 +2,9 @@
 
 iOS app implementing a realistic magnifying glass effect using Metal shaders and CoreImage.
 
-<img src="img/githubPreview.gif" alt="Demo" width="320" style="border:1px solid #ccc; border-radius:12px;">
+<img src="img/demoImage.png" alt="Demo" width="320">
 
-[Video Demo](img/simu.mp4)
+[Video Demo](img/demo.mp4)
 
 ## Features
 
